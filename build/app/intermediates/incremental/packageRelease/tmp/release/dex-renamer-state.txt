@@ -1,4 +1,4 @@
-#Wed Aug 28 11:56:14 EET 2019
+#Thu Aug 29 21:05:26 EET 2019
 base.0=C\:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex
