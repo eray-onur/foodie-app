@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\animator\\design_fab_show_motion_spec.xml"
+    }
+]

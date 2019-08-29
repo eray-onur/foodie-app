@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\9f5b41f56e01c422d8d256d6809e42c6\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\color-v23\\design_tint_password_toggle.xml"
+    }
+]

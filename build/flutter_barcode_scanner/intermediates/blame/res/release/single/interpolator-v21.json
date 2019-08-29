@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Software_Development\\Flutter_Projects\\foodie\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\Ervin\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\b1973058d0f21360387cdebe12368394\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    }
+]
