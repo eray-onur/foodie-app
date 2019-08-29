@@ -5,7 +5,7 @@
     <FLUTTER_ROOT>C:\Flutter\flutter</FLUTTER_ROOT>
     <PROJECT_DIR>C:\Projects\Software_Development\Flutter_Projects\foodie</PROJECT_DIR>
     <TRACK_WIDGET_CREATION>false</TRACK_WIDGET_CREATION>
-    <FLUTTER_TARGET>lib\main.dart</FLUTTER_TARGET>
+    <FLUTTER_TARGET>C:\Projects\Software_Development\Flutter_Projects\foodie\lib\main.dart</FLUTTER_TARGET>
   </PropertyGroup>
   <PropertyGroup/>
   <ItemDefinitionGroup/>
