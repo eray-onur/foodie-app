@@ -1,6 +1,6 @@
 # food_finder
 
-A new Flutter application.
+This is the source code, along with all debug/release versions of the showcase app that i've developed during my internship. Although it only contains Android builds, IOS builds should be very easy to build with XCode as well. Only minor tweaks about the 'barcode-scanner' package might be necessary for IOS builds.
 
 ## Getting Started
 
